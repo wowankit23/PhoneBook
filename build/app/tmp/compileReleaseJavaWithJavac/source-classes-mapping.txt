@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/contact_silverlist/BuildConfig.java
+ com.contact_silverlist.BuildConfig
