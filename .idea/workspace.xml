@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0057643a-8284-48d3-af29-0e228245ef31" name="Default Changelist" comment="Adding files to github">
+    <list default="true" id="0057643a-8284-48d3-af29-0e228245ef31" name="Default Changelist" comment="Added APK for testing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -74,7 +74,21 @@
       <option name="project" value="LOCAL" />
       <updated>1622049762144</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding files to github">
+      <created>1622050322721</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622050322721</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added APK for testing">
+      <created>1622050568786</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622050568786</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,16 +101,34 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Adding files to github" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding files to github" />
+    <MESSAGE value="Added APK for testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added APK for testing" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="240" y="116" key="Vcs.Push.Dialog.v2" timestamp="1622049777023">
+    <state width="1238" height="173" key="GridCell.Tab.0.bottom" timestamp="1622051719553">
       <screen x="0" y="25" width="1280" height="709" />
     </state>
-    <state x="240" y="116" key="Vcs.Push.Dialog.v2/0.25.1280.709@0.25.1280.709" timestamp="1622049777023" />
+    <state width="1238" height="173" key="GridCell.Tab.0.bottom/0.25.1280.709@0.25.1280.709" timestamp="1622051719553" />
+    <state width="1238" height="173" key="GridCell.Tab.0.center" timestamp="1622051719552">
+      <screen x="0" y="25" width="1280" height="709" />
+    </state>
+    <state width="1238" height="173" key="GridCell.Tab.0.center/0.25.1280.709@0.25.1280.709" timestamp="1622051719552" />
+    <state width="1238" height="173" key="GridCell.Tab.0.left" timestamp="1622051719552">
+      <screen x="0" y="25" width="1280" height="709" />
+    </state>
+    <state width="1238" height="173" key="GridCell.Tab.0.left/0.25.1280.709@0.25.1280.709" timestamp="1622051719552" />
+    <state width="1238" height="173" key="GridCell.Tab.0.right" timestamp="1622051719552">
+      <screen x="0" y="25" width="1280" height="709" />
+    </state>
+    <state width="1238" height="173" key="GridCell.Tab.0.right/0.25.1280.709@0.25.1280.709" timestamp="1622051719552" />
+    <state x="240" y="116" key="Vcs.Push.Dialog.v2" timestamp="1622050578202">
+      <screen x="0" y="25" width="1280" height="709" />
+    </state>
+    <state x="240" y="116" key="Vcs.Push.Dialog.v2/0.25.1280.709@0.25.1280.709" timestamp="1622050578202" />
   </component>
 </project>
